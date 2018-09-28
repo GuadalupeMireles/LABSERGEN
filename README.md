@@ -5,5 +5,5 @@ imprime al final los últimos 5 renglones.
   ![monstruo](/nt_16_Un-monstruo-viene-a-verme-destacada-650x435.jpg)  
     
     `lista reactivos`  
-    *Lista 1 de alto riesgo* 
+    *_Lista 1 de alto riesgo_* 
 
